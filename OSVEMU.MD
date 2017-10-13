@@ -3,7 +3,7 @@ Prvi poglavljee dsfsdll
 
 #Introduction to this
 Drugo poglavljee
-
+FSSD
 
 # Deployment
 tRECE POGLAVLJE
@@ -11,7 +11,7 @@ tRECE POGLAVLJE
 
 # Product management
 cETVRTO POGLAVLJE
-
+SDFFSFSDFSDF
 
 # How to contribute
 pETO POGLEVLJE
